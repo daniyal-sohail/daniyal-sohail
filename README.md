@@ -9,13 +9,13 @@
 
 - 👯 I’m currenlty working on [Crypto Reports Project](https://crypto-report-website.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://daniyalsohail.netlify.app/](https://daniyalsohail.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://daniyalsohail.netlify.app/](daniyalsohail.me)
 
 - 💬 Ask me about **ReactJs,NextJs,NodeJs & TypeScript**
 
 - 📫 How to reach me **daniyalsohaildev@gmail.com**
 
-- 🎥 I love content creation **https://www.instagram.com/daniyal__169/**
+- 🎥 I love content creation **[https://www.instagram.com/daniyal__169/](https://www.instagram.com/daniyal__sohail/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
