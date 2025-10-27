@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hey there, I'm Daniyal Sohail from Pakistan</h1>
-<h3 align="center">Full-Stack Developer | CMS Development | JavaScript & TypeScript</h3>
+<h3 align="center">Full Stack Developer | CMS Development | JavaScript & TypeScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyal169&label=Profile%20views&color=0e75b6&style=flat" alt="daniyal169" /> </p>
 
 
 
-- 🌱 I’m currently learning **Python ,FLask;Django**
+- 🌱 I’m currently learning **AI/ML**
 
-- 👯 I’m currenlty working on [Crypto Reports Project](https://crypto-report-website.vercel.app/)
+- 👯 I’m currenlty working on [My SaaS Product/)
 
 -👨‍💻 All of my projects are available at https://daniyalsohail.me
 
