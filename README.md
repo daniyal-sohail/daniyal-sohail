@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👯 I’m currenlty working on [My SaaS Product/)
+- 👯 I’m currenlty working on My SaaS Product
 
 -👨‍💻 All of my projects are available at https://daniyalsohail.me
 
